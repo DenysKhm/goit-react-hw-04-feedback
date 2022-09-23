@@ -1,0 +1,13 @@
+.btnList {
+    display: flex;
+
+}
+
+.btnItem {
+    margin-right: 20px;
+}
+
+.btn {
+    padding: 5px 30px;
+    cursor: pointer;
+}
